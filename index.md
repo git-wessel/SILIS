@@ -3,7 +3,7 @@
 SILIS means: SImple LogIn System. You can use SILIS in you website.
 It's an complete package with everything what's needed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Everything what you need to now is: how php works, the rest is detailed in the php files.
 
 ### Empty 
 
