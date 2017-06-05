@@ -1,5 +1,5 @@
 <?php 
-
+    // Project SILIS
     // These variables define the connection information for your MySQL database 
     $username = "DBUSER"; 
     $password = "DBPASS"; 
