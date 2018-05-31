@@ -26,7 +26,8 @@
         } 
         catch(PDOException $ex) 
         { 
-            die("Failed to run query: " . $ex->getMessage()); 
+            //die("Failed to run query: " . $getMessage()); | You can use this to get the clear error message, but it's suggested to remove this in production eniviroments
+            die("Failed to run query")
         }
         $login_ok = false; 
         $row = $stmt->fetch(); 
